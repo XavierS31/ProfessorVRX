@@ -1,15 +1,15 @@
 🧠 ProfessorVRX – AI-Powered Language Tutor
-ProfessorVRX transforms YouTube language lectures into interactive, voice-based lessons using AI. Just paste a video URL and get a structured lesson with vocabulary, pronunciation, dialogues, and practice prompts — all in the tone of a real language teacher.
+ProfessorVRX transforms prompts into lectures, voice-based lessons using AI. Just paste a video URL and get a structured lesson & practice prompts — all in the tone of a real teacher.
 
 🔧 Tech Stack
-Frontend: HTML, CSS, JS
+Frontend: HTML, CSS
 
-Backend: Flask + OpenAI GPT-4 + YouTube Transcript API
+Backend: Flask + Gemini Api + Python
 
 Voice: Web Speech API
 
 🚀 Features
-Turn real YouTube lectures into personalized language lessons
+Turn Text into personalized lecture language lessons
 
 Supports multiple languages (Spanish, French, Japanese, etc.)
 
